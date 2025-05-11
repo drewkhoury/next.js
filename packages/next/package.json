@@ -67,7 +67,7 @@
     ]
   },
   "dependencies": {
-    "@babel/runtime": "7.15.4",
+    "@babel/runtime": "7.26.10",
     "@hapi/accept": "5.0.2",
     "@napi-rs/triples": "1.0.3",
     "@next/env": "12.0.8-canary.4",
